@@ -34,5 +34,3 @@
 Debug
 esp-opengl-csgo/Debug
 .vs
-glfw3.h
-glfw3native.h
