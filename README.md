@@ -16,3 +16,6 @@ This project are made in c++ with the lib [glfw](https://github.com/glfw/glfw), 
 - X86
 - UAC Execution Level: `requireAdministrator`
 - Characters setup: Unicode
+
+### Preview
+![](https://github.com/zabbix-byte/esp-opengl-csgo/blob/master/preview.png)
