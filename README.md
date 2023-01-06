@@ -9,6 +9,9 @@
 
 
 
+
+<div align="center">
+
   ```
    ▄▄▄▄▄▄   ██   ███   ███   ▄█     ▄  
 ▀   ▄▄▀   █ █  █  █  █  █  ██ ▀▄   █ 
@@ -18,6 +21,7 @@
             █                  ▀     
            ▀                         
   ```
+  </div>
   
 This is a mini project made in like 1-2 hours for fun.
 
